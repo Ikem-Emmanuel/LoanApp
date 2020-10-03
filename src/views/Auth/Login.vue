@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen overflow-hidden flex justify-center">
+  <div class="h-screen overflow-hidden flex justify-center -pt-10">
     <!-- Header -->
     <div class="font-sans bg-grey-lighter flex flex-col w-full">
       <div>
