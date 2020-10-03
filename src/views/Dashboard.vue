@@ -1,7 +1,9 @@
 <template>
   <div id="dashboard" class="h-screen flex flex-col justify-items-center">
     <Header />
-    <Form />
+    <div class="mx-5">
+      <Form />
+    </div>
     <Footer />
   </div>
 </template>
